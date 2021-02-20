@@ -9,7 +9,7 @@ public class VerticleA extends AbstractVerticle {
   public void start(final Promise<Void> startPromise) throws Exception {
     System.out.println("Start " + getClass().getName());
 
-    vertx.deployVerticle(new VerticleA(), whenDeployed -> {
+    vertx.deployVerticle(new VerticleAA(), whenDeployed -> {
       System.out.println("Deployed " + VerticleAA.class.getName());
       vertx.undeploy(whenDeployed.result());
     });
