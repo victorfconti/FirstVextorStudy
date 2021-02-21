@@ -11,3 +11,7 @@ m
 =src/main/java/br/com/victor/starter/verticles/VerticleAB.java,1/e/1e700d36b959e033d8139adb7059c83c49a667d6
 l
 <src/main/java/br/com/victor/starter/verticles/VerticleB.java,1/5/156e8c1f728caa8943be5fc44d1e32f2c9374534
+l
+<src/main/java/br/com/victor/starter/verticles/VerticleN.java,5/c/5c79506af6409f21e0937fb6974063514138f5ee
+s
+Csrc/main/java/br/com/victor/starter/eventloop/EventLoopExample.java,5/0/50aac93201cf9e4f0140eff0fd3f12dcf7fc43f2
