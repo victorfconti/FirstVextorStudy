@@ -6,7 +6,6 @@ import io.vertx.core.Vertx;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-
 public class PointToPoint{
   private static final Logger LOGGER = LoggerFactory.getLogger(PointToPoint.class);
 
