@@ -15,3 +15,9 @@ l
 <src/main/java/br/com/victor/starter/verticles/VerticleN.java,5/c/5c79506af6409f21e0937fb6974063514138f5ee
 s
 Csrc/main/java/br/com/victor/starter/eventloop/EventLoopExample.java,5/0/50aac93201cf9e4f0140eff0fd3f12dcf7fc43f2
+s
+Csrc/main/java/br/com/victor/starter/stater_work/WorkerVerticle.java,4/3/43f247d6baa3efb44f56c5851368dec3c2c939eb
+r
+Bsrc/main/java/br/com/victor/starter/stater_work/WorkerExample.java,c/2/c2f55cd93496b2add89cdceec7226db2d8124ccd
+x
+Hsrc/main/java/br/com/victor/starter/eventbus/RequestResponseExample.java,2/f/2fca8d832b666ca1ad3030872c7507faea95ba73
